@@ -29,5 +29,3 @@ Si la presentación es en las gradas, puedes poner de forma orientativa unos 30 
 
 Te dejo en la carpeta "notebooks" el jupyter notebook que utilizo para descargar las canciones y para cortarlas y moverlas directamente a la carpeta.
 Lo que hago es descargar la canción, después le pongo el nombre de la persona, luego cambio la variable "ruta" en el jupyter por el nombre de esa persona, elijo los segundos de la canción y ejecuto todo. Así directamente se cambia a la carpeta, que la suelo tener en el escritorio. Modifica lo que necesites y hazlo tuyo.
-
-∫
